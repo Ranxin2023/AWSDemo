@@ -1,3 +1,4 @@
 *.ppk
 .env
-Ranxin2024_accessKeys.csv
+# Ranxin2024_accessKeys.csv
+secret_files
